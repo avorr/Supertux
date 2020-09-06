@@ -98,8 +98,3 @@ run make insatll supertux:
   cmd.run:
     - name: make install
     - cwd: /opt/supertux/build/
-
-# run supertux:
-#   cmd.run:
-#     - name: ./supertux2
-#     - cwd: /opt/supertux/build/
